@@ -1,5 +1,5 @@
-# import cv2
-# from pyzbar.pyzbar import decode
+import cv2
+from pyzbar.pyzbar import decode
 
 # # Load image containing QR code
 # img = cv2.imread('Sample_QR_Codes/Untitled 1.png')
