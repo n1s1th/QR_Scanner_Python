@@ -14,7 +14,7 @@ def main():
         ret, frame = cap.read()
         if not ret:
             print("Failed to capture frame")
-            break
+            break 
 
         # Show the live camera feed
         cv2.imshow('USB Camera - QR Scanner', frame)
