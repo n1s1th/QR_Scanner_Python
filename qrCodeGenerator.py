@@ -2,7 +2,7 @@ import qrcode
 
 # Text to encode
 
-data = "B2"
+data = "b2"
 
 
 # Generate QR code
